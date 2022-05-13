@@ -1,7 +1,7 @@
 ### Junior iOS-Developer
 
 ### Languages and Tools:
-![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#ed9e18)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
 
 
 ### Follow Me:
