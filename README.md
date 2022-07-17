@@ -1,4 +1,4 @@
-### Junior iOS-Developer
+### iOS-Developer
 
 ### Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
