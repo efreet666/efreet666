@@ -1,10 +1,4 @@
-[<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
-</p>](https://camo.githubusercontent.com/d9e3fdec3ea977132fc992db53589aef47e4d5436076724322bdc4b8fb7dc8d2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d373526616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d57656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c652125323050757425323073746172732c253230666f726b253230616e64253230636f6e74726962757465212664657363416c69676e593d35312664657363416c69676e3d3632)
+
 
 ### I am a iOS-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
 
@@ -44,6 +38,31 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
 
+name: Contribution snake
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update snake grid
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: efreet666
+          svg_out_path: dist/github-contribution-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/efreet666)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vlad_bokin)
