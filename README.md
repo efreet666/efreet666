@@ -26,14 +26,16 @@
 
 <p align='center'>
 [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
 </p>
-<p align='center'>
+
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
 -->
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
-</p>
+
 
 ### Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
