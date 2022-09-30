@@ -25,10 +25,9 @@
 </p>
 
 <p align='center'>
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
+![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
 </p>
 
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
@@ -41,6 +40,10 @@
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
 [![GitHub Streak](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p>
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
+</p>
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/efreet666)
