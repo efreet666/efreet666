@@ -10,7 +10,6 @@
 
 ### Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
-![SwiftUI](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#00d9ff)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
 
