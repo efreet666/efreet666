@@ -27,6 +27,8 @@
 
 [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
 [![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
 -->
 
