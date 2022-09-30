@@ -20,15 +20,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy" />
 </p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy" />
-</p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
+-->
 
-
-
-
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
 
 ### Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=#e9ab42)
@@ -41,7 +39,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/efreet666)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vlad_bokin)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
--->
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
