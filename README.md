@@ -33,7 +33,7 @@
 ![GitHub Streak](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
