@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efreet666&layout=compact&theme=buefy" />
 </p>
 
-<p align='center'>
-![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
-</p>
+
 
 
 
@@ -41,8 +39,8 @@
 [![GitHub Streak](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p>
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=efreet666&layout=compact&theme=buefy)](https://github.com/teuchezh)
+<p align='center'>
+![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efreet666&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
 </p>
 
 ### Follow Me:
