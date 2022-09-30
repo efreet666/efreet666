@@ -38,31 +38,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efreet666&theme=dark&background=000000)](https://git.io/streak-stats)
 
-name: Contribution snake
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update snake grid
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: efreet666
-          svg_out_path: dist/github-contribution-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/efreet666)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vlad_bokin)
